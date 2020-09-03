@@ -1,2 +1,2 @@
-# 01-python_basics
+# python_basics
 Learn python basics with us
